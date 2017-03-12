@@ -1,0 +1,10 @@
+{
+    "globals": {
+        "console": false,
+        "angular": false,
+        "define":  false,
+        "require": false
+    },
+    "node" :  true,
+    "strict": false
+}
